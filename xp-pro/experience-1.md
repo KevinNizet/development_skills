@@ -1,33 +1,43 @@
-# Période en entreprise du 23/11/2020 au 11/12/2020
+# Expérience en entreprise du 01/09/2023 au 30/09/2024
 
-> Répond aux questions suivantes afin de préparer le partage d'expérience avec ton groupe
-
-## Intégration
-
-1. S'agit il de tes premiers jours dans l'entreprise ? (Si non, précise la date d'entrée)
-
-2. Décris comment se déroule la communication avec ton tuteur. (fréquence, valeur de l'aide ajoutée)
-
-3. Décris ta mission actuelle au sein de l'entreprise
-
-4. Qu'est ce qui a bien fonctionné en terme de communication avec ton équipe ?
-
-5. Qu'est ce qui n'a pas bien fonctionné en terme de communication avec le reste de l'équipe ?
-
-6. Quelle(s) proposition(s) pourrais tu faire pour améliorer ton intégration dans l'équipe ?
 
 ## Expérience technique
 
-1. Quel est le projet principal sur lequel tu as travaillé sur cette période. (liste les projets si il y en a plusieurs) ?
+Stack technique : 
 
-2. Quelle est la tâche la plus intéressante accomplie lors de cette période ?
+- Langages et frameworks principaux : Flutter, Dart, SQL, GraphQL
+- Langages secondaires : Python, NoSQL, NodesJs, JavaScript
+- Intégration continue : GitLab, CI/CD, tests automatisés, Testflight
+- Organisation de travail : Méthode agile et Scrum (sprints de deux semaines)
 
-3. Ta plus grosse réussite ?
+Missions principales : 
 
-4. La plus grosse difficulté (echec ou perte de temps) ?
+* Réaliser l’analyse technique d’avant-projet :
+- Analyser les besoins des produits et les traduire en CdC.
+- Ecrire les spécifications techniques générales et détaillées.
 
-5. Quel langage as tu le plus utilisé ?
+* Développer les applications :
+- Créer les règles de navigation.
+- Développer les interfaces.
+- Corriger et optimiser les fonctionnalités (qualité, charte graphique, etc…).
+- Documenter les applications.
 
-6. Quel design pattern as tu pu identifier ?
+* Tester et écrire les corrections nécessaires :
+- Préparer et réaliser les tests unitaires.
+- Préparer et réaliser les tests d'intégration.
+- Réaliser les tests de charge.
+- Apporter les correctifs nécessaires.
 
-7. Sur quel point ton formateur ou ton groupe peuvent ils t'aider ?
+* Gérer la maintenance corrective et évolutive des applications :
+- Assurer les corrections suite aux « bugs » identifiés.
+- Prendre en compte les évolutions des solutions techniques existantes.
+- Assurer la programmation des évolutions demandées par les utilisateurs.
+
+
+## Challenges et réussites
+
+* Ma plus belle réussite :
+- Participer à la refonte complète (technique et UX/UI) d'une des application mobile.
+
+* Mon plus gros challenge : 
+- Appréhender toutes les facettes de l'électronique embarqué et de l'IoT
