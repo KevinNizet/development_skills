@@ -1,15 +1,14 @@
 # GitHub
 
-> ❌ A travailler
-
-> ✔️ Auto validation par l'étudiant
+Utilisation de GitHub dans le cadre de la formation. 
+Utilisation de GitLab et de GitGraph dans le cadre de l'expérience en entreprise
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
-- utiliser git rebase pour faire des commits propres ❌ / ✔️
+- l'initialisation d'un projet ✅
+- travailler avec des branches ✅
+- faire une PR ✅
+- utiliser git rebase pour faire des commits propres ✅
 - utiliser les gitHub actions ❌ / ✔️
 
 ## 💻 J'utilise

@@ -1,12 +1,10 @@
 # Integration continue
 
-> ❌ A travailler
-
-> ✔️ Auto validation par l'étudiant
+Organisation du travail en entreprise en CI/CD : intégration continue et développement continue
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les enjeux de l'integration continue ❌ / ✔️
+- les enjeux de l'integration continue ✅
 - la mise en place d'une github action ❌ / ✔️
 
 ## 💻 J'utilise

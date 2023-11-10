@@ -1,28 +1,35 @@
 # Titre de la compétence
 
-> ❌ A travailler
+* Organisation du travail en entreprise en méthode Agile et Scrum: 
+- Sprints d'une durée de deux semaines 
+- Daily stand up quotidiens
+- Backlog grooming une semaine sur deux
+- Rétro de sprint à la fin de chaque sprint
+- Sprint planning en chaque début de sprint
 
-> ✔️ Auto validation par l'étudiant
+* Organisation des collaborateurs de l'équipe : 
+- 1 Scrum master
+- 1 product owner
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Différence entre Agile et SCRUM ❌ / ✔️
-- Expliquer les différents rituels et leur intérêt : ❌ / ✔️
+- Différence entre Agile et SCRUM ✅
+- Expliquer les différents rituels et leur intérêt : ✅
   - Daily Stand Up
   - Sprint planning
   - Retro
   - Grooming
   - Poker planning
-- Expliquer les différents roles ❌ / ✔️
+- Expliquer les différents roles ✅
   - SCRUM master
   - Product Owner
   - Stakeholder
-- Comment rédiger une User Story complète ? ❌ / ✔️
-- Qu'est-ce qu'un Product Backlog ? ❌ / ✔️
-- Qu'est ce qu'un Sprint ? Quel est l'intérêt ? ❌ / ✔️
-- A quoi sert le Burndown Chart ? ❌ / ✔️
+- Comment rédiger une User Story complète ? ✅
+- Qu'est-ce qu'un Product Backlog ? ✅
+- Qu'est ce qu'un Sprint ? Quel est l'intérêt ? ✅
+- A quoi sert le Burndown Chart ? ✅
 - Quelles sont les 2 unités de complexité ? ❌ / ✔️
-- Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ❌ / ✔️
+- Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ✅
 
 ## 💻 J'utilise
 

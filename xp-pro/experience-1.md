@@ -15,11 +15,13 @@ Missions principales :
 * Réaliser l’analyse technique d’avant-projet :
 - Analyser les besoins des produits et les traduire en CdC.
 - Ecrire les spécifications techniques générales et détaillées.
+- Réaliser le veille technique nécessaire.
 
 * Développer les applications :
 - Créer les règles de navigation.
 - Développer les interfaces.
 - Corriger et optimiser les fonctionnalités (qualité, charte graphique, etc…).
+- Améliorer l'UX/UI.
 - Documenter les applications.
 
 * Tester et écrire les corrections nécessaires :
