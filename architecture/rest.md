@@ -18,6 +18,8 @@
 
 #### Description :
 
+Une API REST est une interface de programmation d'application (API) qui permet d'établir une communication entre plusieurs logiciels. Afin de maintenir les données, une API REST doit contenir pour des requêtes HTTP pour chaque type de données contenues dans la base : PUT (ou PATCH), POST, GET et DELETE.
+
 **Endpoints :**
 
 Les endpoints sont les URL spécifiques à une ressource.
@@ -65,7 +67,7 @@ Dans le cadre du développement d'une application web, CORS ne résout pas tous 
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✅
 
 Description :
 
@@ -73,7 +75,7 @@ Dans le cadre de la pratique en entreprise, j'ai été par exemple amené à ré
 Les réponses attendues lors du test nécessitent donc d'utiliser le bon verbe HTTP (GET, POST, DELETE) ainsi que les codes corrects concernant le statut HTTP (200 en cas de succés, 404 en cas de ressource non trouvée...)
 
 
-## 🌐 J'utilise des ressources
+## 🌐 J'utilise des ressources 
 
 ### Titre
 
