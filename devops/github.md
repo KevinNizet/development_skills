@@ -34,6 +34,8 @@ Description :
 
 Description :
 
+cf.ci-dessous
+
 ## 🌐 J'utilise des ressources
 
 ### Titre
@@ -48,8 +50,14 @@ C'est un gain de temps considérable car cela génére automatiquement une liste
 - Description : j'utilise cette documentation pour gérer correctement mes commits
 
 En effet, en entreprise, j'ai appris à gérer les branches de développement par des git rebase, et la différence que cela implique par apport à des merges. 
-Le git workflos mis en place permet d'avoir un historique propre des commits et une lecture simplifiée des branches. 
+Le workflow mis en place permet d'avoir un historique propre des commits et une lecture simplifiée des branches. 
 
 Les pull request sont également réalisées à chaque développement de feature terminé. C'est alors l'occasion d'avoir une revue de son code, ou d'en réaliser une sur la pull request d'un autre développeur. 
 Le workflow demande a ce que toute pull request soit revue par un ou plusieurs pair. C'est l'occasion d'échanger sur les bonnes pratiques et de s'améliorer constamment dans la rédaction du code. 
 
+- GitLab : https://gitlab.com/gitlab-org/gitlab
+
+En entreprise, la plateforme dédiée pour l'ensemble des opérations est GitLab. 
+Je l'utilise pour l'hébergement des différentes repos de code, la versionnage et les release des applications. 
+L'équipe l'utilisate également dans le cadre de la méthode Agile. 
+La plateforme est également utilisée pour le CI/CD avec la configuration des pipelines de test tournant à chaque pull request. 

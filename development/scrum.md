@@ -47,11 +47,16 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✅
 
 [lien (screenshot/photos)](...)
 
 Description :
+
+En entreprise, la plateforme dédiée pour l'ensemble des opérations est GitLab. 
+Je l'utilise pour l'hébergement des différentes repos de code, la versionnage et les release des applications. 
+L'équipe l'utilisate également dans le cadre de la méthode Agile. 
+La plateforme est également utilisée pour le CI/CD avec la configuration des pipelines de test tournant à chaque pull request. 
 
 ## 🌐 J'utilise des ressources
 
@@ -60,21 +65,3 @@ Description :
 - lien
 - description
 
-## 🚧 Je franchis les obstacles
-
-### Point de blocage ❌ / ✔️
-
-Description:
-
-Plan d'action : (à valider par le formateur)
-
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
-
-Résolution :
-
-## 📽️ J'en fais la démonstration
-
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
