@@ -25,6 +25,7 @@ Exemple : https://api.example.com/users pourrait être l'endpoint pour accéder 
 
 Dans le cadre du projet de cours, voici par exemple un extrait de requêtes HTTP : 
 
+```
 **Categories - createOne**
 POST http://localhost:5001/categories
 content-type: application/json
@@ -49,6 +50,7 @@ content-type: application/json
 GET http://localhost:5001/categories
 
 ==> Permet d'afficher l'ensemble des catégories définies
+```
 
 **CORS (Cross-Origin Resource Sharing) :**
 
