@@ -1,13 +1,10 @@
 # TypeScript
 
-> ❌ A travailler
-
-> ✔️ Auto validation par l'étudiant
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✅
+- les types de bases ✅
 - comment et pourquoi étendre une interface ❌ / ✔️
 - les classes et les decorators ❌ / ✔️
 
@@ -17,7 +14,7 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github](https://github.com/KevinNizet/the-good-corner/tree/graphQL)
 
 Description :
 
@@ -27,9 +24,9 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ 
 
-Description :
+Ce n'est pas le cas. En effet, je travaille en entreprise sur des projets d'applications mobiles en Flutter et Dart. Le langage Dart est naturellement fortement typé. 
 
 ## 🌐 J'utilise des ressources
 
