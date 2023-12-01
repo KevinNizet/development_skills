@@ -16,7 +16,7 @@
 
 [lien github](https://github.com/KevinNizet/the-good-corner)
 
-Description :
+#### Description :
 
 **Endpoints :**
 
@@ -25,7 +25,7 @@ Exemple : https://api.example.com/users pourrait être l'endpoint pour accéder 
 
 Dans le cadre du projet de cours, voici par exemple un extrait de requêtes HTTP : 
 
-### Categories - createOne
+**Categories - createOne**
 POST http://localhost:5001/categories
 content-type: application/json
 
@@ -35,7 +35,7 @@ content-type: application/json
 
 ==> Permet de créer une catégorie 
 
-### Categories - patchOne
+**Categories - patchOne**
 PATCH  http://localhost:5001/categories/1
 content-type: application/json
 
@@ -45,7 +45,7 @@ content-type: application/json
 
 ==> Permet de mettre à jour la catégorie d'ID 1.
 
-### Categories - getAll
+**Categories - getAll**
 GET http://localhost:5001/categories
 
 ==> Permet d'afficher l'ensemble des catégories définies
